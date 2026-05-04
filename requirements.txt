@@ -1,0 +1,2 @@
+# Expense Tracker Project
+# Uses only Python standard library (no external packages)
